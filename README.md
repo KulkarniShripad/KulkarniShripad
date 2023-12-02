@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AI, ML, Flutter, Firebase and many more**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KulkarniShripad](https://github.com/KulkarniShripad)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/KulkarniShripad)
 
 - 📫 How to reach me **shrikulkarni2205@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tXVFGmv55p4IaXh8HFslbYVuRss_zkou/view?usp=sharing](https://drive.google.com/file/d/1tXVFGmv55p4IaXh8HFslbYVuRss_zkou/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tXVFGmv55p4IaXh8HFslbYVuRss_zkou/view?usp=sharing)
 
 - ⚡ Fun fact **I am shy at first**
 
