@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulkarnishripad&label=Profile%20views&color=0e75b6&style=flat" alt="kulkarnishripad" /> </p>
 
-- 🔭 I’m currently Studying in **Government Polytechnic Nagpur**
+- 🔭 I’m currently Studying in **COEP Tecnological University**
 
-- 🌱 I’m currently learning **AI, ML, Flutter, Firebase and many more**
+- 🌱 I’m currently learning **Computere Science, AI, ML, Flutter, Firebase and many more**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/KulkarniShripad)
 
