@@ -15,7 +15,7 @@
 
 - 📄 Know more about me [View my portfolio](https://glistening-custard-3c4e3e.netlify.app/)
 
-- ⚡ Fun fact **I love treking and music too but not as much as I computers 😄**
+- ⚡ Fun fact **I love treking and music too but not as much as I love computers 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
