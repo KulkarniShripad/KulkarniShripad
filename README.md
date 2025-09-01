@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shrikulkarni2205@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tXVFGmv55p4IaXh8HFslbYVuRss_zkou/view?usp=sharing)
+- 📄 Know more about me [View my portfolio](https://glistening-custard-3c4e3e.netlify.app/)
 
 - ⚡ Fun fact **I am shy at first**
 
