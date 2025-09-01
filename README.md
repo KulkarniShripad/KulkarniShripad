@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shripad Kulkarni</h1>
-<h3 align="center">A developer with a passion for flutter development</h3>
+<h3 align="center">A developer with a passion for Computer Science</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying in **COEP Tecnological University**
 
-- 🌱 I’m currently learning **Computere Science, AI, ML, Flutter, Firebase and many more**
+- 🌱 I’m currently learning **Computere Science, Full Stack Development, Flutter and many more**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/KulkarniShripad)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know more about me [View my portfolio](https://glistening-custard-3c4e3e.netlify.app/)
 
-- ⚡ Fun fact **I am shy at first**
+- ⚡ Fun fact **I love treking and music too but not as much as I computers 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
